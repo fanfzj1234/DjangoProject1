@@ -1,0 +1,3 @@
+﻿<script type="text/javascript">document.domain='58.com';	parent.$.c.Error.setErrorTip('您输入的密码与账户名不符','tipDiv');	parent.clearform();parent.clearPassportTimeout();parent.$.formValidator.subfalse('submitForm', 'btnSubmit', '登录');</script>
+
+结束
